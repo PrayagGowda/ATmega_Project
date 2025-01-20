@@ -1,2 +1,3 @@
 # ATmega_Project
 This project involved designing and implementing a sensor-based motor control system utilizing the ARM LPC1768  microcontroller.
+The system acquires real-time data from sensors to monitor motor parameters such as speed, position, and torque. Processed data using the ATmega328p to enable precise control decisions.The motor control system achieves efficient and automated operations, enhancing performance and reducing manual intervention. Communication interfaces like USART are employed for data exchange between sensors and the microcontroller. This setup is ideal for industrial automation, robotics, and other dynamic control applications.
